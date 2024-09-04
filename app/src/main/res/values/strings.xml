@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Скрытый калькулятор</string>
+    <string name="submitBTN">Передать данные</string>
+    <string name="divideBTN">÷</string>
+    <string name="multiplyBTN">×</string>
+    <string name="minusBTN">-</string>
+    <string name="plusBTN">+</string>
+    <string name="secondET">2-ый операнд</string>
+    <string name="firstET">1-ый операнд</string>
+    <string name="tocalcBTN">Калькулятор</string>
+    <string name="resultTV">Результат вычислений</string>
+</resources>
